@@ -1,0 +1,3 @@
+/home/dec/Code/Final_4/FloorPlan/build/CMakeFiles/solution.dir
+/home/dec/Code/Final_4/FloorPlan/build/CMakeFiles/edit_cache.dir
+/home/dec/Code/Final_4/FloorPlan/build/CMakeFiles/rebuild_cache.dir

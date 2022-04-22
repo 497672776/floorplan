@@ -10,3 +10,4 @@ These two modes can be switched in CMakeLists.txt.
 
 - **Usage**
 > . run.sh
+# floorplan

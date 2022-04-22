@@ -12,8 +12,11 @@ But test.cpp is not yet complete.
 
 - **Usage**
 > . run.sh
+- **draw BStar**
 > python3 drawLayout.py resource/output/n100_03.floorplanBStar
+- **draw SP**
 > python3 drawLayout.py resource/output/n100_03.floorplanSP
+- **draw Slicing**
 > python3 drawLayout.py resource/output/n100_03.floorplanSlicing
 
 # floorplan
